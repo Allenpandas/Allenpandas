@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/Allenpandas/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Allenpandas&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Allenpandas&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/Allenpandas/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Allenpandas&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Allenpandas&repo=convoychat" />
 </a>
