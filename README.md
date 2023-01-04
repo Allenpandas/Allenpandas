@@ -20,5 +20,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Allenpandas&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/Allenpandas/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Allenpandas&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allenpandas&layout=convoychat" />
 </a>
