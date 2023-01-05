@@ -2,7 +2,7 @@
 
 I  received the Master’s degree in software engineering from [Beijing Jiaotong Univeresity](https://www.bjtu.edu.cn/) in 2022. Now, I am currently a Ph.D. candidate of cyber security in [Beijing Jiaotong University](https://www.bjtu.edu.cn/). My research interests are in the intersection of artificial intelligence and security, including Safe Reinforcement Learning(Safe RL) ,  AI Security(AISec) and Machine Learning Testing.
 
-<p align="center"> 🔭 <a href="https://wuyalun.cn/" target="_blank">View My Website</a></p>
+<p align="center"> 🔭 <a href="[https://wuyalun.cn/](https://github.com/Allenpandas)" target="_blank">View My Website</a></p>
 
 
 
@@ -14,7 +14,7 @@ I  received the Master’s degree in software engineering from [Beijing Jiaotong
 
     [Beijing Jiaotong University](https://www.bjtu.edu.cn/)
 
-  - Email: `wuyalun1[at]bjtu.edu.cn` (Please change [at] to @)
+  - Email: `22110131[at]bjtu.edu.cn` (Please change [at] to @)
   - Address: 3 Shangyuancun, Haidian, Beijing 100044, CHINA
 
 
