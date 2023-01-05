@@ -8,7 +8,7 @@ I  received the Master’s degree in software engineering from [Beijing Jiaotong
 
 - 📫 Contact me by:
 
-  - THETA Lab (Thorough Evaluation on Threats of Artificial Intelligence, THETA Lab) 
+  - [THETA Lab (Thorough Evaluation on Threats of Artificial Intelligence, THETA Lab)](http://jxd308.cn/) 
 
     [School of Computer and Information Technology](http://scit.bjtu.edu.cn/)
 
