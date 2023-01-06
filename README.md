@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [Aaron Wu](https://github.com/Allenpandas)! You can also call me Allenpandas🐼.
+### Hi there 👋 I'm [Aaron Wu](https://github.com/Allenpandas)! You can also call me Allenpanda🐼.
 
 I  received the Master’s degree in software engineering from [Beijing Jiaotong Univeresity](https://www.bjtu.edu.cn/) in 2022. Now, I am currently a Ph.D. candidate of cyber security in [Beijing Jiaotong University](https://www.bjtu.edu.cn/). My research interests are in the intersection of artificial intelligence and security, including Safe Reinforcement Learning(Safe RL) ,  AI Security(AISec) and Machine Learning Testing.
 
