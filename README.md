@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm [Aaron Wu](https://github.com/Allenpandas)! You can also call me Allenpandas🐼.
 
-I received the Master’s degree in software engineering from [Beijing Jiaotong Univeresity](https://www.bjtu.edu.cn/) in 2022. Now, I am currently a Ph.D. candidate of cyber security in [Beijing Jiaotong University](https://www.bjtu.edu.cn/). My research interests are at the intersection of artificial intelligence and computer security. More specifically, I am interested both in using machine learning to improve software security and in improving security, reliability and robustness of the machine learning models themselves. 
+I received the Master’s degree in software engineering from [Beijing Jiaotong Univeresity](https://www.bjtu.edu.cn/) in 2022. Now, I am a Ph.D. candidate of cyber security in [Beijing Jiaotong University](https://www.bjtu.edu.cn/). My research interests are at the intersection of artificial intelligence and computer security. More specifically, I am interested both in using machine learning to improve software security and in improving security, reliability and robustness of the machine learning models themselves. 
 
 <p align="center"> 🔭 <a href="https://github.com/Allenpandas" target="_blank">View My Website</a></p>
 
