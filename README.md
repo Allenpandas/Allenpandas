@@ -9,11 +9,8 @@ I am a Ph.D. candidate of cyber security in [Beijing Jiaotong University](https:
 - 📫 Contact me by:
 
   - [THETA Lab (Thorough Evaluation on Threats of Artificial Intelligence, THETA Lab)](http://jxd308.cn/) 
-
     [School of Computer and Information Technology](http://en.scit.bjtu.edu.cn/)
-
     [Beijing Jiaotong University](http://en.bjtu.edu.cn/)
-
   - Email: `22110131[at]bjtu.edu.cn` (Please change [at] to @)
   - Address: 3 Shangyuancun, Haidian, Beijing 100044, CHINA
 
