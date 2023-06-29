@@ -17,6 +17,7 @@ I am a Ph.D. student of Cyberspace Security in [Beijing Jiaotong University](htt
   <a href="https://blog.csdn.net/m0_38068876" target="_blank">
     <img src="https://img.shields.io/badge/csdn-CSDN-brightgreen.svg?style=social" alt="csdn"></a>
 </p>
+
 ### Education
 
 - Sep. 2022 - up to now
@@ -43,8 +44,7 @@ I am a Ph.D. student of Cyberspace Security in [Beijing Jiaotong University](htt
 
 - Shuang Zhao, **Yalun Wu**, et al. Blockchain-based decentralized federated learning: A secure and privacy-preserving system[C]//2021 IEEE 23rd Int Conf on High Performance Computing & Communications; 7th Int Conf on Data Science & Systems; 19th Int Conf on Smart City; 7th Int Conf on Dependability in Sensor, Cloud & Big Data Systems & Application (HPCC/DSS/SmartCity/DependSys). IEEE, 2021: 941-948.
 
-
-📫 Contact me by:
+### Contact
 - Institution: 
   - [THETA Lab (Thorough Evaluation on Threats of Artificial Intelligence, THETA Lab)](http://jxd308.cn/) 
   - [School of Computer and Information Technology](http://en.scit.bjtu.edu.cn/)
