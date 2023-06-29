@@ -18,7 +18,7 @@ I am a Ph.D. student of Cyberspace Security in [Beijing Jiaotong University](htt
     <img src="https://img.shields.io/badge/csdn-CSDN-brightgreen.svg?style=social" alt="csdn"></a>
 </p>
 
-### Education
+<!--### Education
 
 - Sep. 2022 - up to now
   School of Computer and Information Technology, **[Beijing Jiaotong University](http://en.bjtu.edu.cn/)**
@@ -38,7 +38,7 @@ I am a Ph.D. student of Cyberspace Security in [Beijing Jiaotong University](htt
 
 - **Yalun Wu**, Minglu Song, et al. Improving convolutional neural network-based webshell detection through reinforcement learning.
 - Shuang Zhao, **Yalun Wu**, et al. Blockchain-based decentralized federated learning: A secure and privacy-preserving system.
-
+-->
 ### Contact
 - Institution: 
   - [THETA Lab (Thorough Evaluation on Threats of Artificial Intelligence, THETA Lab)](http://jxd308.cn/) 
