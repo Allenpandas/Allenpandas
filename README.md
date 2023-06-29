@@ -1,9 +1,47 @@
 ### Hi there 👋 I'm [Yalun Wu](https://github.com/Allenpandas)! You can also call me Allenpandas🐼.
 
-I am a Ph.D. candidate of cyber security in [Beijing Jiaotong University](https://en.bjtu.edu.cn/). My research interests are at the intersection of artificial intelligence and computer security. More specifically, I am interested both in using machine learning to improve software security and in improving security, reliability and robustness of the machine learning models themselves. 
+I am a Ph.D. student of Cyberspace Security in [Beijing Jiaotong University](https://en.bjtu.edu.cn/). My research interests is the security and reliability of intelligent transportation systems.
 
-<p align="center"> 🔭 <a href="https://github.com/Allenpandas" target="_blank">View My Website</a></p>
+<p align="center">
+  <!--<a href="https://twitter.com/KyonHuang" target="_blank"><img src="https://img.shields.io/twitter/follow/KyonHuang.svg?style=social" alt="Twitter">
+  </a>-->
+  <a href="https://github.com/Allenpandas?tab=followers" target="_blank"><img src="https://img.shields.io/github/followers/Allenpandas.svg?label=Follow%20@Allenpandas&style=social" alt="GitHub">
+  </a>
+    <!--github-->
+  <a href="https://github.com/Allenpandas" target="_blank"><img src="https://img.shields.io/github/stars/Allenpandas.svg?style=social" alt="GitHub">
+  </a>
+  <!--google scholar-->
+  <a href="https://scholar.google.com/citations?user=mhpkWSYAAAAJ" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?label=Paper Citations&query=total_citations&url=https://cse.bth.se/~fer/googlescholar-api/googlescholar.php?user=BF5dco0AAAAJ&logo=googlescholar&style=social" alt="Google Scholar">
+  </a>
+  <!--csdn-->
+  <a href="https://blog.csdn.net/m0_38068876" target="_blank">
+    <img src="https://img.shields.io/badge/csdn-CSDN-brightgreen.svg?style=social" alt="csdn"></a>
+</p>
+### Education
 
+- Sep. 2022 - up to now
+
+  School of Computer and Information Technology, **[Beijing Jiaotong University](http://en.bjtu.edu.cn/)**
+
+  **Ph.D** in Cyberspace Security; Research advisors: Prof.Zhen Han, Prof.Wenjia Niu.
+  
+- Sep. 2020 - Jun. 2022
+
+  School of Computer and Information Technology, **[Beijing Jiaotong University](http://en.bjtu.edu.cn/)**
+
+  **M.Sc** in Software Engineering; Research advisors: Prof.Wenjia Niu and Dr.Endong Tong.
+
+### Talking
+
+- **[ICICS2021](https://dblp1.uni-trier.de/db/conf/icics/index.html)**: Improving Convolutional Neural Network-Based Webshell Detection Through Reinforcement Learning.
+
+### Publications
+
+**Papers [[DBLP](https://dblp.uni-trier.de/pid/301/9788.html)] [[Google Scholar](https://scholar.google.com/citations?user=BF5dco0AAAAJ&hl=zh-CN)] [[ORCID](https://orcid.org/0000-0002-0891-1904)] [[Github](https://github.com/wuyalun)]**
+
+- **Yalun Wu**, Minglu Song, et al. Improving Convolutional Neural Network-Based Webshell Detection Through Reinforcement Learning. ICICS (1) 2021: 368-383.
+
+- Shuang Zhao, **Yalun Wu**, et al. Blockchain-based decentralized federated learning: A secure and privacy-preserving system[C]//2021 IEEE 23rd Int Conf on High Performance Computing & Communications; 7th Int Conf on Data Science & Systems; 19th Int Conf on Smart City; 7th Int Conf on Dependability in Sensor, Cloud & Big Data Systems & Application (HPCC/DSS/SmartCity/DependSys). IEEE, 2021: 941-948.
 
 
 📫 Contact me by:
@@ -22,3 +60,4 @@ I am a Ph.D. candidate of cyber security in [Beijing Jiaotong University](https:
 <a href="https://github.com/Allenpandas/convoychat">
   <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allenpandas&layout=compact" />
 </a>
+
