@@ -21,15 +21,11 @@ I am a Ph.D. student of Cyberspace Security in [Beijing Jiaotong University](htt
 ### Education
 
 - Sep. 2022 - up to now
-
   School of Computer and Information Technology, **[Beijing Jiaotong University](http://en.bjtu.edu.cn/)**
-
   **Ph.D** in Cyberspace Security; Research advisors: Prof.Zhen Han, Prof.Wenjia Niu.
   
 - Sep. 2020 - Jun. 2022
-
   School of Computer and Information Technology, **[Beijing Jiaotong University](http://en.bjtu.edu.cn/)**
-
   **M.Sc** in Software Engineering; Research advisors: Prof.Wenjia Niu and Dr.Endong Tong.
 
 ### Talking
@@ -38,11 +34,10 @@ I am a Ph.D. student of Cyberspace Security in [Beijing Jiaotong University](htt
 
 ### Publications
 
-**Papers [[DBLP](https://dblp.uni-trier.de/pid/301/9788.html)] [[Google Scholar](https://scholar.google.com/citations?user=BF5dco0AAAAJ&hl=zh-CN)] [[ORCID](https://orcid.org/0000-0002-0891-1904)] [[Github](https://github.com/wuyalun)]**
+**Papers [[DBLP](https://dblp.uni-trier.de/pid/301/9788.html)] [[Google Scholar](https://scholar.google.com/citations?user=BF5dco0AAAAJ&hl=zh-CN)] [[ORCID](https://orcid.org/0000-0002-0891-1904)] [[Github](https://github.com/Allenpandas)]**
 
-- **Yalun Wu**, Minglu Song, et al. Improving Convolutional Neural Network-Based Webshell Detection Through Reinforcement Learning. ICICS (1) 2021: 368-383.
-
-- Shuang Zhao, **Yalun Wu**, et al. Blockchain-based decentralized federated learning: A secure and privacy-preserving system[C]//2021 IEEE 23rd Int Conf on High Performance Computing & Communications; 7th Int Conf on Data Science & Systems; 19th Int Conf on Smart City; 7th Int Conf on Dependability in Sensor, Cloud & Big Data Systems & Application (HPCC/DSS/SmartCity/DependSys). IEEE, 2021: 941-948.
+- **Yalun Wu**, Minglu Song, et al. Improving convolutional neural network-based webshell detection through reinforcement learning.
+- Shuang Zhao, **Yalun Wu**, et al. Blockchain-based decentralized federated learning: A secure and privacy-preserving system.
 
 ### Contact
 - Institution: 
