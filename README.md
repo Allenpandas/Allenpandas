@@ -1,6 +1,13 @@
 ### Hi there 👋 I'm [Yalun Wu](https://github.com/Allenpandas)! You can also call me Allenpandas🐼.
 
-I am a Ph.D. student of Cyberspace Security in [Beijing Jiaotong University](https://en.bjtu.edu.cn/). My research interests is the security and reliability of intelligent transportation systems.
+I am a first-year Ph.D. student in the School of Computer and Information Techonoly at [Beijing Jiaotong University](https://en.bjtu.edu.cn/). I work with Prof.Zhen Han, Prof.WenJia Niu and Dr.Endong Tong in THETA Lab (THorough Evaluation on Threats of Artificial Intelligence, THETA Lab).
+
+My research interests are in the intersection of artificial intelligence and security, including but not limited to reinforcement learning security and privacy protection. I am interested in exploring the vulnerabilities of machine learning systems and developing robust versions of them.
+
+I received the Master’s degree in software engineering from Beijing Jiaotong Univeresity in 2022. My postgraduate research advisor is Dr.Endong Tong, and my postgraduate research interests are reinforcement learning and Webshell detection.
+
+Advertisement: If you are interested in a position (e.g. intern, Master’s, PhD, etc.) in our lab, please send me an email with your impressive self-introduction and materials like CV, transcript, etc. I will be happy to recommend you to my advisor if there is a good match. Thanks!
+
 
 <p align="center">
   <!--<a href="https://twitter.com/KyonHuang" target="_blank"><img src="https://img.shields.io/twitter/follow/KyonHuang.svg?style=social" alt="Twitter">
