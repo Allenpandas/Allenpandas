@@ -1,12 +1,9 @@
 ### Hi there 👋 I'm [Yalun Wu](https://github.com/Allenpandas)! You can also call me Allenpandas🐼.
 
-I am a first-year Ph.D. student in the School of Computer and Information Techonoly at [Beijing Jiaotong University](https://en.bjtu.edu.cn/). I am affiliated with THETA Lab (THorough Evaluation on Threats of Artificial Intelligence) and collaborate closely with Prof. Zhen Han, Prof. WenJia Niu, and Dr. Endong Tong.
+I am a first-year Ph.D. student in the School of Computer and Information Techonoly at [Beijing Jiaotong University](https://en.bjtu.edu.cn/). I am affiliated with THETA Lab (THorough Evaluation on Threats of Artificial Intelligence) and collaborate closely with Prof. Zhen Han, Prof. WenJia Niu, and Dr. Endong Tong. I hold a Master's degree in software engineering, which I obtained from Beijing Jiaotong University in 2022. During my postgraduate studies, I had the privilege of working under the guidance of Dr. Endong Tong, exploring topics related to reinforcement learning and Webshell detection. My primary research interests lie at the intersection of artificial intelligence and security, with a specific focus on reinforcement learning security and privacy protection. I am particularly intrigued by uncovering vulnerabilities within machine learning systems and developing robust alternatives to mitigate potential risks.
 
-My primary research interests lie at the intersection of artificial intelligence and security, with a specific focus on reinforcement learning security and privacy protection. I am particularly intrigued by uncovering vulnerabilities within machine learning systems and developing robust alternatives to mitigate potential risks.
 
-I hold a Master's degree in software engineering, which I obtained from Beijing Jiaotong University in 2022. During my postgraduate studies, I had the privilege of working under the guidance of Dr. Endong Tong, exploring topics related to reinforcement learning and Webshell detection.
-
-If you are interested in joining our lab, whether as an intern, Master's student, Ph.D. candidate, or in any other capacity, please feel free to reach out to me via email. Kindly provide a compelling self-introduction along with supporting materials such as your CV and transcript. If there is a strong alignment between your profile and our research endeavors, I would be delighted to recommend you to my advisor. Thank you for considering this opportunity!
+**Advertisement:** If you are interested in joining our lab, whether as an intern, Master's student, Ph.D. candidate, or in any other capacity, please feel free to reach out to me via email. Kindly provide a compelling self-introduction along with supporting materials such as your CV and transcript. If there is a strong alignment between your profile and our research endeavors, I would be delighted to recommend you to my advisor. Thank you for considering this opportunity!
 
 
 <p align="center">
