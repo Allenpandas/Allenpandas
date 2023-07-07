@@ -15,8 +15,8 @@ I am a first-year Ph.D. student in the School of Computer and Information Techon
   <a href="https://github.com/Allenpandas" target="_blank"><img src="https://img.shields.io/github/stars/Allenpandas.svg?style=social" alt="GitHub">
   </a>
   <!--google scholar-->
-  <a href="https://scholar.google.com/citations?user=mhpkWSYAAAAJ" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?label=Paper Citations&query=total_citations&url=https://cse.bth.se/~fer/googlescholar-api/googlescholar.php?user=BF5dco0AAAAJ&logo=googlescholar&style=social" alt="Google Scholar">
-  </a>
+ <!-- <a href="https://scholar.google.com/citations?user=mhpkWSYAAAAJ" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?label=Paper Citations&query=total_citations&url=https://cse.bth.se/~fer/googlescholar-api/googlescholar.php?user=BF5dco0AAAAJ&logo=googlescholar&style=social" alt="Google Scholar">
+  </a>-->
   <!--csdn-->
   <a href="https://blog.csdn.net/m0_38068876" target="_blank">
     <img src="https://img.shields.io/badge/csdn-CSDN-brightgreen.svg?style=social" alt="csdn"></a>
