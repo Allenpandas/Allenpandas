@@ -9,13 +9,6 @@ Currently, my research has centered on
 - **Autonomous Driving Security**: attacks and defenses against the physical world, sensors, algorithms and automonous driving systems.
 - **Reinforcement Learning**: safety reinforcement learning (SRL), robustness reinforcement learning and offline reinforcement learning for autonomous driving systems.
 
-<a href="https://github.com/Allenpandas/github-readme-stats">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=Allenpandas&repo=github-readme-stats&hide=contribs" />
-</a>
-<a href="https://github.com/Allenpandas/convoychat">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allenpandas&layout=compact" />
-</a><br />
-
 
 **Advertisement:** 
 
@@ -24,6 +17,14 @@ If you are interested in joining our [*THETA Lab*](http://jxd308.cn/), whether a
 **Contact:**
 
 - Email: `22110131[at]bjtu.edu.cn` (Please change [at] to @)
+
+
+<a href="https://github.com/Allenpandas/github-readme-stats">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=Allenpandas&repo=github-readme-stats&hide=contribs" />
+</a>
+<a href="https://github.com/Allenpandas/convoychat">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allenpandas&layout=compact" />
+</a>
 
 
 ![](./assets/github-contribution-grid-snake.svg)
