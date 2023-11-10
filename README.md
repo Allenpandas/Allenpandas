@@ -10,11 +10,12 @@ Currently, my research has centered on
 - **Reinforcement Learning**: safety reinforcement learning (SRL), robustness reinforcement learning and offline reinforcement learning for autonomous driving systems.
 
 <a href="https://github.com/Allenpandas/github-readme-stats">
-  <img align="left" height="180px" src="https://github-readme-stats.vercel.app/api?username=Allenpandas&repo=github-readme-stats&hide=contribs" />
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=Allenpandas&repo=github-readme-stats&hide=contribs" />
 </a>
 <a href="https://github.com/Allenpandas/convoychat">
-  <img align="left" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allenpandas&layout=compact" />
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allenpandas&layout=compact" />
 </a>
+
 
 **Advertisement:** 
 
