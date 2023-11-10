@@ -18,12 +18,13 @@ If you are interested in joining our [*THETA Lab*](http://jxd308.cn/), whether a
 
 - Email: `22110131[at]bjtu.edu.cn` (Please change [at] to @)
 
+---
 
 <a href="https://github.com/Allenpandas/github-readme-stats">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=Allenpandas&repo=github-readme-stats&hide=contribs" />
+  <img align="left" height="180px" src="https://github-readme-stats.vercel.app/api?username=Allenpandas&repo=github-readme-stats&hide=contribs" />
 </a>
 <a href="https://github.com/Allenpandas/convoychat">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allenpandas&layout=compact" />
+  <img align="left" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allenpandas&layout=compact" />
 </a>
 
 
