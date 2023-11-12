@@ -2,10 +2,10 @@
 
 I am a Ph.D. student in the School of Computer and Information Techonoly at [*Beijing Jiaotong University*](https://en.bjtu.edu.cn/), and affiliated with *[THETA Lab](http://jxd308.cn/)*.
 
-<p align="center">
+<!--<p align="center">
   <a href="https://github.com/Allenpandas" target="_blank"><img src="https://img.shields.io/github/followers/Allenpandas.svg?label=Follow%20&style=social" alt="GitHub"></a>
   <a href="https://github.com/Allenpandas" target="_blank"><img src="https://img.shields.io/github/stars/Allenpandas.svg?label=Stars%20&style=social" alt="GitHub"></a>
-  <a href="https://blog.csdn.net/m0_38068876" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/CSDN%20Follow-2.71k-FC5531"></a>
+  <a href="https://blog.csdn.net/m0_38068876" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/CSDN%20Follow-2.71k-FC5531"></a>!-->
 
 Currently, my research has centered on
 
