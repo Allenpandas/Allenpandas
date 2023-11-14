@@ -11,7 +11,7 @@ Currently, my research has centered on
 
 - **Safety Testing**: testing and evaluation for autonomous driving algorithms, modules, and systems.
 - **Data Augmentation**: image or video generation, especially focus on generative data augmentation (GDA) in autonomous driving scenarios.
-- **Autonomous Driving Security**: attacks and defenses against the physical world, sensors, algorithms and automonous driving systems.
+- **CPS/IoT Security**: attacks and defenses against the physical world, sensors, algorithms and automonous driving systems.
 - **Reinforcement Learning**: safety reinforcement learning (SRL), robustness reinforcement learning and offline reinforcement learning for autonomous driving systems.
 
 
