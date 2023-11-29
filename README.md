@@ -33,7 +33,6 @@ If you are interested in joining our [*THETA Lab*](http://jxd308.cn/), whether a
 </a>
 
 
-![](./assets/github-contribution-grid-snake.svg)
 
 
 
