@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm [Aaron Wu](https://github.com/Allenpandas)! You can also call me Allenpandas🐼.
 
-I am a Ph.D. student in the School of Computer and Information Techonoly at [*Beijing Jiaotong University*](https://en.bjtu.edu.cn/).
+I am a Ph.D. student in [*Beijing Jiaotong University*](https://en.bjtu.edu.cn/).
 
 <!--<p align="center">
   <a href="https://github.com/Allenpandas" target="_blank"><img src="https://img.shields.io/github/followers/Allenpandas.svg?label=Follow%20&style=social" alt="GitHub"></a>
