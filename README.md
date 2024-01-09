@@ -7,17 +7,12 @@ I am a Ph.D. student in the School of Computer and Information Techonoly at [*Be
   <a href="https://github.com/Allenpandas" target="_blank"><img src="https://img.shields.io/github/stars/Allenpandas.svg?label=Stars%20&style=social" alt="GitHub"></a>
   <a href="https://blog.csdn.net/m0_38068876" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/CSDN%20Follow-2.71k-FC5531"></a>!-->
 
-Currently, my research has centered on
+Currently, my research has centered on:
 
 - **Safety Testing**: testing and evaluation for autonomous driving algorithms, modules, and systems.
 - **Data Augmentation**: image or video generation, especially focus on generative data augmentation (GDA) in autonomous driving scenarios.
 - **CPS/IoT Security**: attacks and defenses against the physical world, sensors, algorithms and automonous driving systems.
 - **Reinforcement Learning**: safety reinforcement learning (SRL), robustness reinforcement learning and offline reinforcement learning for autonomous driving systems.
-
-
-**Contact me:**
-
-- Email: `22110131[at]bjtu.edu.cn` (Please change [at] to @)
 
 ---
 
