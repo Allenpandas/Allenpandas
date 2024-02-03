@@ -20,7 +20,7 @@ Currently, my research has centered on:
   <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=Allenpandas&repo=github-readme-stats&hide=contribs" />
 </a>
 <a href="https://github.com/Allenpandas/convoychat">
-  <img align="left" height="150px" width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allenpandas&layout=compact" />
+  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allenpandas&layout=compact" />
 </a>
 
 
