@@ -17,10 +17,10 @@ Currently, my research has centered on:
 ---
 
 <a href="https://github.com/Allenpandas/github-readme-stats">
-  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=Allenpandas&repo=github-readme-stats&hide=contribs" />
+  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=Allenpandas&repo=github-readme-stats&hide=contribs&show_icons=true&theme=tokyonight&count_private=true" />
 </a>
 <a href="https://github.com/Allenpandas/convoychat">
-  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allenpandas&layout=compact" />
+  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allenpandas&layout=compact&theme=tokyonight&hide=jupyter Notebook" />
 </a>
 
 
