@@ -7,12 +7,16 @@ I am a Ph.D. student in [*Beijing Jiaotong University*](https://en.bjtu.edu.cn/)
   <a href="https://github.com/Allenpandas" target="_blank"><img src="https://img.shields.io/github/stars/Allenpandas.svg?label=Stars%20&style=social" alt="GitHub"></a>
   <a href="https://blog.csdn.net/m0_38068876" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/CSDN%20Follow-2.71k-FC5531"></a>!-->
 
-Currently, my research has centered on:
+Recently, I have been interested in exploring various aspects of AI security, including the reliability and robustness of machine learning models, data security and privacy protection in big data environments, and the decision control of reinforcement learning and intelligent agent robots. Our goal is to reveal the vulnerabilities of these models and raise awareness, advocating for increased research dedicated to AI security. The specific intersts are listed below:
 
-- **Safety Testing**: testing and evaluation for autonomous driving algorithms, modules, and systems.
-- **Data Augmentation**: image or video generation, especially focus on generative data augmentation (GDA) in autonomous driving scenarios.
-- **CPS/IoT Security**: attacks and defenses against the physical world, sensors, algorithms and automonous driving systems.
-- **Reinforcement Learning**: safety reinforcement learning (SRL), robustness reinforcement learning and offline reinforcement learning for autonomous driving systems.
+- **1) CPS/IoT security:** Attacks and defenses against the physical world, sensors, algorithms and intelligent systems.
+
+- **2) Data Augmentation:** Image/Instance generation, especially focus on generative data augmentation (GDA) for addressing corner cases and long-tail problems.
+
+- **3) Backdoor Learning:** Backdoor attacks and defenses on deep neural networks (DNNs).
+
+- **4) Reinforcement Learning:** Safety and robustness in reinforcement learning for robots and self-driving systems.
+
 
 ---
 
